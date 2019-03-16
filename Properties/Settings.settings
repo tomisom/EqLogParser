@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EqLogParser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="monitorFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Games\Daybreak Game Company\Installed Games\EverQuest\Logs\</Value>
+    </Setting>
+    <Setting Name="currentFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eqlog_Darmok_coirnav.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
